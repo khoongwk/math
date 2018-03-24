@@ -24,6 +24,6 @@ def piAlgorithm():
             toAdd = True
         count += 2
         print(sum*4)
-    print('Approximation: '+str(sum*4) + ' in '+ str(int(count/2)) + ' iterations')
+    print('Approximation: {} in {} iterations'.format(sum*4, math.floor(count/2)))
     print ('Actual Value: '+ str(math.pi))
 piAlgorithm()
