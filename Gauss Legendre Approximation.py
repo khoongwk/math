@@ -16,7 +16,7 @@ n = 1
 
 while n <= 8:
     result = ((a+b)**2)/(4*t)
-    print('Iteration' + str(n) + ' ' + str(result))
+    print('Iteration {} {}'.format(n,result))
     atemp = (a+b)/2
     btemp = math.sqrt(a*b)
     ttemp = t - p*((a-atemp)**2)
