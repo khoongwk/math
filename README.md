@@ -1,2 +1,2 @@
 # math
-Scripts implementing some mathematical approximation algorithms and stuff
+Practising the implementation of some mathematical methods which I come across and find interesting.
