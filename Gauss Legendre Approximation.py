@@ -1,7 +1,7 @@
 '''
 An implementation of the Gauss-Legendre
 Algorithm to approximate pi. Results show
-very fast convergenceto pi, with the
+very fast convergence to pi, with the
 first 15 decimals approximated by the 4th
 iteration. Significantly faster than the
 Leibniz method.
