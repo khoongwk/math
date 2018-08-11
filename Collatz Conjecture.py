@@ -39,4 +39,4 @@ plt.plot(x, y, '.', markersize=4 ,color='black') # Plots the diagram with x and 
 plt.xlabel('n')
 plt.ylabel('Steps')
 plt.title('Collatz Conjecture from 1 to 10000')
-plt.show() # Shows plot.
+plt.show() # Shows plot. 
